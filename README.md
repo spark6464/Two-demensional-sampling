@@ -1,1 +1,1 @@
-# Two-demensional-sampling
+# fourier optics with matlab
